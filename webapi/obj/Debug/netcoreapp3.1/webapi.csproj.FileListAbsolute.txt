@@ -18,3 +18,23 @@ C:\Users\L\Documents\Curso TIC 2022\Poyecto Misiontic\webapi\obj\Debug\netcoreap
 C:\Users\L\Documents\Curso TIC 2022\Poyecto Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 C:\Users\L\Documents\Curso TIC 2022\Poyecto Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 C:\Users\L\Documents\Curso TIC 2022\Poyecto Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\Asus\Desktop\g23\Poyecto-Misiontic\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache

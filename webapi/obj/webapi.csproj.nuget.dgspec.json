@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\webapi\\webapi.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\g23\\Poyecto-Misiontic\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\webapi\\webapi.csproj": {
+    "C:\\Users\\Asus\\Desktop\\g23\\Poyecto-Misiontic\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\g23\\Poyecto-Misiontic\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\webapi\\webapi.csproj",
-        "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\webapi\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\g23\\Poyecto-Misiontic\\webapi\\webapi.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\g23\\Poyecto-Misiontic\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
         }
       }
     }
