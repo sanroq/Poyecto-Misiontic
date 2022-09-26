@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\persistencia\\Persistencia.csproj": {}
   },
   "projects": {
     "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Dominio\\Dominio.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lek83lXjrhlkkYaRjKJjw85kafRICufZyLenWhBxTm9nGqYYrGLh0yzl5xxUmrp5RX7WZVH593EeEGfqY1iUUQ==",
+  "dgSpecHash": "1k9yw5AGRQ96NkMyIhjtTiZY67GezNFs2JDIguGjkF61/90oDvChecW4YjPjbdMeFkuAd5rYs3N+H8s8wOfVlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\L\\Documents\\Curso TIC 2022\\Poyecto Misiontic\\persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
